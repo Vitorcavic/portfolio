@@ -1,8 +1,12 @@
 #presentation {
 
-    background-image: url(../assets/images/Background_Intro.png);
+    width: 100%;
+    height: 750px;
 
+    background-image: url(../assets/images/Background_Intro.png);
+    background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 
     grid-auto-flow: row;
     justify-content: center;
@@ -84,6 +88,9 @@
 
 #projects {
 
+    width: 100%;
+    height: 917px;
+
     padding: 72px 120px 144px;
     justify-content: center;
 
@@ -112,6 +119,9 @@
 
 #services {
 
+    width: 100%;
+    height: 480px;
+
     background-color: #0D0E11;
     justify-content: center;
     padding: 88px 120px 120px;
@@ -139,6 +149,13 @@
 }
 
 #contacts {
+    width: 100%;
+    height: 787px;
+    background-image: url(../assets/images/Background_Contacts.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
     padding: 128px 120px 200px;
 
     header {
