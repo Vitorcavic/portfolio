@@ -6,7 +6,7 @@ Este é um projeto de portfólio pessoal desenvolvido com HTML e CSS avançados 
 
 O projeto está hospedado no GitHub Pages e pode ser visualizado diretamente no navegador através do seguinte link:
 
-[https://vitorcavic.github.io/portfolio](https://vitorcavic.github.io/portfolio)
+[https://vitorcavic.github.io/portfolio/](https://vitorcavic.github.io/portfolio/)
 
 ## Como executar localmente
 
